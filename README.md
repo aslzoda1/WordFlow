@@ -55,3 +55,6 @@ WordFlow — bu dasturchilar va til o'rganuvchilar uchun shaxsiy lug'at boyligin
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF9800&height=60&section=footer" width="100%"/>
 <b>💎 EXPAND YOUR MIND — Built with ❤️ by Aslzoda 💎</b>
 </div>
+
+
+aslzoda
